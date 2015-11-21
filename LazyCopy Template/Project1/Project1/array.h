@@ -28,7 +28,7 @@ namespace CS225 {
 
 
 		const ElementProxy operator[](long pos);// { return ElementProxy(*this, pos); }
-		int operator[](long pos) const// { return data[pos]; }
+		int operator[](long pos) const;// { return data[pos]; }
 		//const DataType operator[](long pos) const { return data[pos]; }
 		friend std::ostream& operator<<(std::ostream &out, Array const& array);
 		void Insert(int pos, DataType const& val);

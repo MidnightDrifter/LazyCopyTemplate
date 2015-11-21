@@ -26,13 +26,10 @@
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\int2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\array-skeleton.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\driver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="array - original.cpp">
+    <ClCompile Include="array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,9 +41,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="array.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="array - original.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -121,16 +121,14 @@
     <Text Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\handout.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\array-skeleton.cpp" />
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\driver.cpp" />
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\int.cpp" />
     <ClCompile Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\int2.cpp" />
-    <ClCompile Include="array - original.cpp" />
+    <ClCompile Include="array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\int.h" />
     <ClInclude Include="..\..\..\..\..\..\..\Desktop\College\DigiPen\Fall 2015\CS 525 - Obj. Oriented Design and Programming\lazycopy_templates-files\int2.h" />
-    <ClInclude Include="array - original.h" />
     <ClInclude Include="array.h" />
   </ItemGroup>
   <ItemGroup>
